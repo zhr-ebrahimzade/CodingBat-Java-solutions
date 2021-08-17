@@ -1,2 +1,2 @@
 # CodingBat-Java-solutions-Logic-1
-Simple java examples
+Java solutions to https://codingbat.com/java/Logic-1
